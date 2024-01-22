@@ -45,6 +45,7 @@
 		47E5CC692B5CFB9B0011A921 /* AuthViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47E5CC682B5CFB9B0011A921 /* AuthViewModel.swift */; };
 		47E5CC6D2B5CFCCE0011A921 /* ForgotPassword.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47E5CC6C2B5CFCCE0011A921 /* ForgotPassword.swift */; };
 		47E5CC702B5CFCEE0011A921 /* HelloPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47E5CC6F2B5CFCEE0011A921 /* HelloPage.swift */; };
+		47E5CC722B5E712C0011A921 /* ReedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47E5CC712B5E712C0011A921 /* ReedView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -60,6 +61,7 @@
 		47E5CC682B5CFB9B0011A921 /* AuthViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthViewModel.swift; sourceTree = "<group>"; };
 		47E5CC6C2B5CFCCE0011A921 /* ForgotPassword.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForgotPassword.swift; sourceTree = "<group>"; };
 		47E5CC6F2B5CFCEE0011A921 /* HelloPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelloPage.swift; sourceTree = "<group>"; };
+		47E5CC712B5E712C0011A921 /* ReedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReedView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -172,6 +174,7 @@
 		47E5CBDA2B5A785F0011A921 /* Reed */ = {
 			isa = PBXGroup;
 			children = (
+				47E5CC712B5E712C0011A921 /* ReedView.swift */,
 			);
 			path = Reed;
 			sourceTree = "<group>";
@@ -317,6 +320,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				47E5CC722B5E712C0011A921 /* ReedView.swift in Sources */,
 				47E5CBDE2B5A78B40011A921 /* LoginView.swift in Sources */,
 				47E5CC512B5CB0380011A921 /* RegisterView.swift in Sources */,
 				47E5CC692B5CFB9B0011A921 /* AuthViewModel.swift in Sources */,
